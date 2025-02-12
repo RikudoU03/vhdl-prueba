@@ -1,0 +1,7 @@
+v 4
+file . "CompuertaAND_p.vhdl" "c8a7c57411089497dbe10cf451ec72f828bc7285" "20250212092231.984":
+  entity prueba at 1( 0) + 0 on 25;
+  architecture simulacion of prueba at 7( 160) + 0 on 26;
+file . "CompuertaAND.vhdl" "6c0c5968afa1b197aec93dfcb261098a2eb900b7" "20250212092228.279":
+  entity compuerta_and at 1( 0) + 0 on 23;
+  architecture compuerta_and of compuerta_and at 11( 532) + 0 on 24;
